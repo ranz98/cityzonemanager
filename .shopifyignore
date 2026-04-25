@@ -1,0 +1,6 @@
+app/
+public/
+package.json
+package-lock.json
+vite.config.ts
+react-router.config.js
